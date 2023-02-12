@@ -1,4 +1,3 @@
-import React, { Fragment } from "react";
 import { PageContainer } from "./style";
 import "./style.js";
 
@@ -22,7 +21,7 @@ function scrollFunction() {
    <PageContainer>
    <div id="navbar" className="nav-bar-container">
       <div id="navbar-right" className="nav-items-container">
-        <div className="nav-a-container"><a className="logo hover-underline-animation">home</a></div>
+        <div className="nav-a-container"><a className="logo hover-underline-animation" href="#home">home</a></div>
         <div className="nav-a-container"><a className="logo hover-underline-animation" href="#about">about</a></div>
         <div className="nav-a-container"><a className="logo hover-underline-animation" href="#skills">skills & tools</a></div>
         <div className="nav-a-container"><a className="logo hover-underline-animation" href="#projects">projects</a></div>
