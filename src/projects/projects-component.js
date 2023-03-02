@@ -9,6 +9,12 @@ const Projects = () => {
       </div>
       <h2>Projects</h2>
       <div className="projects-wrapper">
+      <div className="project-container">
+          <a href="https://fundbudget.netlify.app/" target="_blank">
+            <img src="images/budget.png"></img>
+            <p>budget</p>
+          </a>
+        </div>
         <div className="project-container">
           <a href="https://crownshopping.netlify.app" target="_blank">
             <img src="images/crownclothing.png"></img>

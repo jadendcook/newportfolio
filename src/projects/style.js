@@ -36,7 +36,7 @@ export const PageContainer = styled.div`
   .projects-wrapper {
     display: flex;
     justify-content: center;
-    gap: 200px;
+    gap: 100px;
     padding-top: 150px;
   }
 

@@ -1,6 +1,7 @@
-import React, { Fragment } from "react";
-import styled from '@emotion/styled'
+import React from "react";
 import { PageContainer } from "./style";
+import styled from '@emotion/styled'
+
 
 const Home = () => {
     return (
